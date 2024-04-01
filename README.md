@@ -9,7 +9,7 @@ Student at [ATU] (https://www.atu.ie/).
 
 ## About this project
 
-This project is the assesement for the Principles of Data Analytics module. It focuses on the widely available [palmerpenguins data set](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv).
+This project is the [assessment](https://ianmcloughlin.github.io/2324_principles_of_data_analytics/) for the Principles of Data Analytics module. It focuses on the widely available [palmerpenguins data set](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv).
 The data set is an excellent base to explore and demonstrate the following items:
 
     1. Source and investigate sets of data.
