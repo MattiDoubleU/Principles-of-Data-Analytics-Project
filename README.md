@@ -5,6 +5,7 @@
 Student at [ATU] (https://www.atu.ie/).
 
 ![Penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
+“Artwork by @allison_horst”
 
 
 ## About this project
